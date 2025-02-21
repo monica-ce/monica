@@ -22,6 +22,9 @@
 
 ## Monica is an open source personal relationship management system, that lets you document your life.
 
+> [!Monica Community Edition]
+> We are not aiming to fork the project, we just want the development of monica to move faster, and would very much like to merge into the upstream and close the organization.
+
 > [!WARNING]
 > This branch is in development. It’s our beta version.
 >
